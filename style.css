@@ -11,6 +11,7 @@
   font-family:'Pacifico', cursive;
   color:#4EB1BA;
   transition:1s;
+  padding-right:0.25em;
   }
 
 .menu_f:hover{
