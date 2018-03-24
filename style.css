@@ -103,6 +103,7 @@ body {
 ul,p {
   font-family:'Roboto', sans-serif;
   color:#E9E9E9;
+  line-height:1.5;
 }
 
 p::selection {
